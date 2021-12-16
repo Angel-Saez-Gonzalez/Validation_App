@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_validation_app_student_model,validation_app.student_model,model_validation_app_student_model,base.group_user,1,1,1,1
+access_validation_app_module_model,validation_app.module_model,model_validation_app_module_model,base.group_user,1,1,1,1
+access_validation_app_convalidations_model,validation_app.convalidations_model,model_validation_app_convalidations_model,base.group_user,1,1,1,1
+access_validation_app_course_model,validation_app.course_model,model_validation_app_course_model,base.group_user,1,1,1,1
